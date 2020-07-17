@@ -8,5 +8,5 @@ branding:
 
 runs:
   using: 'docker'
-  image: "docker://flatpak/flatpak-builder@base"
+  image: "docker://flatpak/flatpak-builder:base"
   args: []
