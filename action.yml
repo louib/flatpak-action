@@ -1,7 +1,10 @@
 name: flatpak-action
 author: louib
 description: GitHub action for flatpak (flatpak, flatpak-builder and tools)
-icon: box
+
+branding:
+  icon: box
+  color: green
 
 runs:
   using: 'docker'
