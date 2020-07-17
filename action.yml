@@ -1,6 +1,7 @@
 name: flatpak-action
 author: louib
 description: GitHub action for flatpak (flatpak, flatpak-builder and tools)
+icon: box
 
 runs:
   using: 'docker'
